@@ -1,0 +1,6 @@
+venv/
+model_cache/
+faiss.index
+metadata.pkl
+__pycache__/
+*.pyc
